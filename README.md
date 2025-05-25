@@ -1,13 +1,13 @@
 <h1 align="center">Hello World, I am Simran with a strong interest in transforming raw data into actionalble insights!</h1>
 <h3 align="center">Welcome to my GitHub which serves as a portfolio of my projects, highlighiting my practical experience with data manipulation, statistical analysis, and creating compelling visualizations.</h3>
 
-- Currently working as a Financial Analyst at Global Automation Private Limited, Bangalore.
+- Currently working as a **Financial Analyst** at Global Automation Private Limited, Bangalore.
 
 - Graduated with M.Sc. in Economics in May 2024.
   
-- Particularly interested in Predictive Analysis, Data Visualization and applying statistical models to solve interesting business problems
+- Particularly interested in **Predictive Analysis**, **Data Visualization** and applying statistical models to solve interesting business problems
   
-- Actively developing proficiency in Data Structures and Algorithms.
+- Actively developing proficiency in **Data Structures and Algorithms**.
   
 - Have a look at my visual summary on my website.
   
