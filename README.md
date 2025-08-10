@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I am Simran with a strong interest in transforming raw data into actionalble insights!</h1>
+<h1 align="center">Hello World, I am Simran with a strong interest in transforming raw data into actionable insights!</h1>
 <h3 align="center">Welcome to my GitHub which serves as a portfolio of my projects, highlighiting my practical experience with data manipulation, statistical analysis, and creating compelling visualizations.</h3>
 
 - Currently working as a **Financial Analyst** at Global Automation Private Limited, Bangalore.
